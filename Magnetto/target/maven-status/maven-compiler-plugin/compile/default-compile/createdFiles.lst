@@ -1,0 +1,7 @@
+com\leandrovilares\magnetto\service\DNAService.class
+com\leandrovilares\magnetto\model\DNA.class
+com\leandrovilares\magnetto\controller\RestApiController.class
+com\leandrovilares\magnetto\service\DNAServiceImpl.class
+com\leandrovilares\magnetto\service\Magnetto.class
+com\leandrovilares\magnetto\SpringBootRestApiApp.class
+com\leandrovilares\magnetto\util\CustomErrorType.class
